@@ -4,3 +4,4 @@ p02-responsible-ai/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+*.numbers
